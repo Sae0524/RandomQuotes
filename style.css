@@ -1,0 +1,46 @@
+body {
+  background-color: #333;
+  min-height: 100vh;
+  padding: 100px;
+}
+
+.container {
+  background-color: #333;
+  width: 90vh;
+  margin: 0 auto;
+  padding: 50px;
+  height: 60vh;
+  color: whitesmoke;
+  font-family: 'Playfair Display', serif;
+  border-radius: 4px;
+  border: 2px solid #fff;
+}
+
+.container .quote-text {
+  margin-top: 50px;
+  min-height: 20vh;
+  font-size: 2.0rem;
+  text-align: left;
+}
+
+.container .author-text {
+  text-transform: capitalize;
+  color: whitesmoke;
+  text-align: right;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.container .btn {
+  position: fixed;
+  width: 12em;
+  display: inline-block;
+  left: 50%;
+  margin-left: -6em;
+  bottom: 150px;
+  border-radius: 4px;
+  color: whitesmoke;
+  background-color: #4e4d4d;
+  padding: 15px 0;
+}
+/*# sourceMappingURL=style.css.map */
